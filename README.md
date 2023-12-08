@@ -1,6 +1,6 @@
 # 06-Server-Side-API-Weather-Dahsboard ![Static Badge](https://img.shields.io/badge/MIT_License-grey)
 ## Description
-This GitHub Repository contains code creating a Work Day Planner. It uses JS and HTML to create a 9-5 planner that color coordinates and stores data entered into local storage so that it stays on refresh.
+This GitHub Repository contains code creating a Weather Dashboard. It allows you to type the name of the city and get back a 5 day forecast for that city.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -8,11 +8,11 @@ This GitHub Repository contains code creating a Work Day Planner. It uses JS and
 - [License](#license)
 - [Questions](#questions)
 ## Installation
-The repository can be found at: https://github.com/jlipovetz/05-Third-Party-API-Scheduler.
+The repository can be found at: https://github.com/jlipovetz/06-Server-Side-API-Weather-Dahsboard.
 ## Usage
-The page itself is very easy to use. The user can add in what they need to do at different times and click save. Once they click save that item will stay on refresh and not leave until deleted.
+The page itself is very easy to use. All the user has to do is enter in the name of a city and they get back a forecast.
 
-![A screenshot of the completed webpage.](./assets/images/05-API-Scheduler.png)
+![A screenshot of the completed webpage.](./assets/images/Weather-Dashboard.png)
 ## Credits
 
 ## License
