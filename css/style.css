@@ -1,0 +1,71 @@
+* {
+  margin:0;
+  padding:0;  
+}
+
+Header{
+  text-align: center;
+  background-color: #13293d;
+  color: white;
+  font-size: 35px;
+  margin-bottom: 10px;
+
+}
+
+#section-search{
+  float: left;
+  width: 25%;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: #13293d;
+  margin: 15px;
+}
+
+input{
+  font-size: 25px;
+}
+
+button {
+  display: flex;
+  font-size: 30px;
+  background-color: #13293d;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+label {
+  font-size: 30px;
+}
+
+#city {
+  float: right;
+  border-radius: 2px;
+  border-style: solid;
+  border-color: #13293d;
+  margin: 15px;
+  width: 70%;
+}
+
+#forecast {
+  float: right;
+  border-color: #13293d;
+  margin: 15px;
+  width: 70%;
+}
+
+#cards {
+  display: flex;
+  flex-wrap: nowrap;
+
+}
+
+#cards > div {
+  background-color: #13293d;
+  width: 150px;
+  margin: 10px;
+  text-align: left;
+  line-height: 50px;
+  font-size: 17px;
+  color: white;
+}
